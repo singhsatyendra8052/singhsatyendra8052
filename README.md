@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhsatyendra8052&show_icons=true&locale=en" alt="singhsatyendra8052" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyendra8052&" alt="singhsatyendra8052" /></p>
+<p>
+  <img src="https://api.vaunt.dev/v1/github/entities/singhsatyendra8052/achievements?format=svg&limit=3" width="350" />
+</p>
